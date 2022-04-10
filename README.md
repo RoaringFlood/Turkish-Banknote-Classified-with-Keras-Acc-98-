@@ -1,1 +1,1 @@
-# Turkish-Banknote-Classified-with-Keras-Acc-98-
+# Turkish-Banknote-Classified-with-Keras/MobileNet Acc ~ 98
